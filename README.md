@@ -1,2 +1,2 @@
 # Global-Suicide-Insight
-A machine learning poject which predict the suicide rate based on the some relevant and important features
+A machine learning poject which predict the suicide rate based on the relevant and important features
